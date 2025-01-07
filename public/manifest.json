@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Student Profile Management System",
+  "name": "A React-based app for creating and managing personal profiles, including adding, updating, and deleting skills with various categories and proficiency levels.",
   "icons": [
     {
       "src": "favicon.ico",

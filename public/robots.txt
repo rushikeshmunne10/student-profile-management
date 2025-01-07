@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+Sitemap: https://rushikeshmunne10.github.io/student-profile-management/sitemap.xml
