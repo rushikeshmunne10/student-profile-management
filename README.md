@@ -89,3 +89,22 @@ To set up the project locally, follow these steps:
 - **UI/UX Enhancements**: Improving user feedback with error messages, success notifications, and loading indicators when saving profile data or uploading images could enhance the experience.
 - **User Authentication**: Adding authentication to ensure that users can only modify their own profiles, including adding and managing their skills, would be an important feature for future development.
 
+## Screenshots
+
+### Home Screen
+
+Here is a screenshot of the home screen.
+
+![Home Screen](images/home-image.png)
+
+### Profile Form
+
+This is the **Profile Form** section where users enter their personal details like Name, Email, Date of Birth, Phone Number, etc.
+
+![Profile Form](images/profile-form.png)
+
+### Skills Section
+
+This section allows users to add, select, and delete skills. Each skill can be categorized and have different levels like Beginner, Intermediate, or Expert.
+
+![Skills Section](images/skills-section.png)
