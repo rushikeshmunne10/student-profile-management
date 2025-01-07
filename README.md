@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/profile-form-app.git
+   git clone https://github.com/rushikeshmunne10/student-profile-management.git
    ```
 
 2. **Navigate into the project directory**
